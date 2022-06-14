@@ -11,6 +11,10 @@
 
 Open the program with any Python IDE, for example Visual Studio Code.
 
+## Licencing information
+
+The program is open source.
+
 ## Contact information
 
 For any feedback, please contact the developer at jacohartman@gmail.com
