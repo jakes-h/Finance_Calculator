@@ -1,4 +1,4 @@
-# capstoneProject1
+# Finance Calculator
 
 ## Finance calculators
 
