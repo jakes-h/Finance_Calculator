@@ -1,6 +1,6 @@
 # Finance Calculator
 
-## Finance calculator
+## Description
 
 * The program offers an investment and bond calculator.
 * The investment calculator calculates what an investment will be worth at the end of a term.
